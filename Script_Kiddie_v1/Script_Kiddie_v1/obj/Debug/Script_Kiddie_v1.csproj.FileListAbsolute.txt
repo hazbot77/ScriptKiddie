@@ -1,0 +1,10 @@
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\bin\Debug\Script_Kiddie_v1.exe.config
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\bin\Debug\Script_Kiddie_v1.exe
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\bin\Debug\Script_Kiddie_v1.pdb
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.csprojAssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.Form1.resources
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.Properties.Resources.resources
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.csproj.GenerateResource.cache
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.exe
+C:\Users\harry\OneDrive\Desktop\C#\Random_C#_GUIS\Script_Kiddie_v1\Script_Kiddie_v1\obj\Debug\Script_Kiddie_v1.pdb
